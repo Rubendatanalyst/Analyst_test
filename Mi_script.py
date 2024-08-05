@@ -1,2 +1,2 @@
 import os
-print(f'Mi ruta de trabajo es: {os.getcwd()}')
+print(f'nuestra ruta de trabajo es: {os.getcwd()}')
